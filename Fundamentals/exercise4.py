@@ -1,0 +1,5 @@
+print('Please, choose your numbers')
+firstNumber = input('First number: ')
+secondNumber = input('Second number: ')
+sum = int(firstNumber) + int(secondNumber)
+print('Sum of ', firstNumber, 'and', secondNumber, 'is', sum)
