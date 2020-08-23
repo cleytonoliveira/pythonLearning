@@ -1,0 +1,5 @@
+print('Please write a day, month and year you born:')
+day = input('Day = ')
+month = input('Month = ')
+year = input('Year = ')
+print('You born in ', day, 'of', month, 'of', year + ', Right?')
