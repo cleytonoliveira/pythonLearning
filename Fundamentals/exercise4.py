@@ -1,5 +1,5 @@
 print('Please, choose your numbers')
-firstNumber = input('First number: ')
-secondNumber = input('Second number: ')
-sum = int(firstNumber) + int(secondNumber)
+firstNumber = int(input('First number: '))
+secondNumber = int(input('Second number: '))
+sum = firstNumber + secondNumber
 print('Sum of {} and {} is {}'.format(firstNumber, secondNumber, sum))
